@@ -13,19 +13,5 @@ Variables & Names
 
 String Basics
 
-List
 
-Tuple
-
-Dictionaries
-
-Conditional Statements
-
-For and While Loop
-
-Functions
-
-Numbers and Math Functions
-
-Common Errors in Python
 
