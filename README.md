@@ -4,15 +4,28 @@ Python: High-level, readable, versatile. Emphasizes simplicity. Supports multipl
 Topics
  
 Why python ?
+
 Python IDE
+
 Hello World Program
+
 Variables & Names
+
 String Basics
+
 List
+
 Tuple
+
 Dictionaries
+
 Conditional Statements
+
 For and While Loop
+
 Functions
+
 Numbers and Math Functions
+
 Common Errors in Python
+
